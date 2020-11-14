@@ -1,0 +1,15 @@
+.center{
+    width: 1000px;
+    margin: auto;
+    font-size: 1.5em;
+}
+
+.list{
+    float: left;
+}
+
+.title{
+   margin: 3;
+   text-align: center;
+   color: #3F51B5;
+}
